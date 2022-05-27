@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+  The contents of <numbers> are available only with C++20 or later.
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(158,43): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(168,43): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(22): warning C4715: 'ValidarEleccionFigura': no todas las rutas de acceso de control devuelven un valor
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(34): warning C4715: 'ValidarEleccionMedida': no todas las rutas de acceso de control devuelven un valor
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(84): warning C4715: 'DevolverPerimetro': no todas las rutas de acceso de control devuelven un valor
+D:\VS\ConsoleApplication1\ConsoleApplication1.cpp(132): warning C4715: 'DevolverArea': no todas las rutas de acceso de control devuelven un valor
+  ConsoleApplication1.vcxproj -> D:\VS\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
